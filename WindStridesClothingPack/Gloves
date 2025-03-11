@@ -1,0 +1,16 @@
+{
+            "ClassName": "Fingerless_Gloves",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"Fingerless_Gloves_Brown",
+		"Fingerless_Gloves_Wool",
+		"Fingerless_Gloves_Wool_Grey",
+		"Fingerless_Gloves_Wool_Black"
+			]
+        }
