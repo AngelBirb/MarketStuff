@@ -1,0 +1,72 @@
+{
+            "ClassName": "Adidas_Leggings",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"Blue_Leggings",
+		"Latex_Leggings",
+		"Latex_White_Leggings",
+		"Red_Leggings",
+		"Purple_Leggings",
+		"Fleece_Grey_Leggings",
+		"Legging_Shorts_Black"
+			]
+        },
+	{
+            "ClassName": "Kneepads_Jeans_Base",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"Kneepads_Jeans_Black"
+			]
+        },
+	{
+            "ClassName": "Skinny_Jeans_Blue",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"Skinny_Jeans_Black"
+			]
+        },
+	{
+            "ClassName": "BJJ_GI_Lower_Blue",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"BJJ_GI_Lower_Black",
+		"BJJ_GI_Lower_White"
+			]
+        },
+	{
+            "ClassName": "Galife_Pants_Olive",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"Galife_Pants_Navy"
+			]
+        }
