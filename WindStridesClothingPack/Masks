@@ -1,0 +1,80 @@
+{
+            "ClassName": "Plague_Mask",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+	{
+            "ClassName": "Shemagh_Facemask_Brown",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"Shemagh_Facemask_Green",
+		"Shemagh_Facemask_Red",
+		"Shemagh_Facemask_White",
+		"Shemagh_Facemask_Black"
+			]
+        },
+	{
+            "ClassName": "Shemagh_Scarf_Brown",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"Shemagh_Scarf_Green",
+		"Shemagh_Scarf_Red",
+		"Shemagh_Scarf_White",
+		"Shemagh_Scarf_Black"
+			]
+        },
+	{
+            "ClassName": "Scarf_Brown",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"Scarf_Blue"
+		]
+        },
+	{
+            "ClassName": "PMK_5A_Gas_Mask",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+		"gasmask_filter"
+		],
+            "Variants": []
+        },
+	{
+            "ClassName": "Scarf_ColorPalette1",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
