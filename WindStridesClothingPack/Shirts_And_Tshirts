@@ -1,0 +1,30 @@
+{
+            "ClassName": "Layered_Shirt_Base",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"Layered_Shirt_Cheburashka",
+		"Layered_Shirt_White",
+		"Layered_Shirt_Courage",
+		"Layered_Shirt_Lily"
+			]
+        },
+	{
+            "ClassName": "Medium_Sleeves_Shirt",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"Medium_Sleeves_Shirt_Red",
+		"Medium_Sleeves_Shirt_Blue"
+			]
+        }
