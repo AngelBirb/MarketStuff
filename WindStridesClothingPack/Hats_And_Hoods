@@ -1,0 +1,89 @@
+{
+            "ClassName": "Trapper_Hat_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"Trapper_Hat_Red_Checkered",
+		"Trapper_Hat_Camo_Mossy_Oak"
+			]
+        },
+	{
+            "ClassName": "Slouch_Hat_Brown",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+	{
+            "ClassName": "Poncho_Brown",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"Poncho_Red_Checkered",
+		"Poncho_Blue_Checkered",
+		"Poncho_Yellow_Checkered",
+		"Poncho_White",
+		"Poncho_Green",
+		"Poncho_Red",
+		"Poncho_Black",
+		"Poncho_BlackAndWhite",
+		"Poncho_BlackAndWhite2"
+			]
+        },
+	{
+            "ClassName": "Leather_Cloak",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+	{
+            "ClassName": "Shemagh_Brown",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"Shemagh_Green",
+		"Shemagh_Red",
+		"Shemagh_White",
+		"Shemagh_Black"
+		]
+        },
+	{
+            "ClassName": "Shemagh_Bandit_Brown",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"Shemagh_Bandit_Green",
+		"Shemagh_Bandit_Red",
+		"Shemagh_Bandit_White",
+		"Shemagh_Bandit_Black"
+			]
+        }
