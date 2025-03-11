@@ -1,0 +1,14 @@
+{
+            "ClassName": "Defender_Vest_Classic",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+		"Defender_Vest_Black",
+		"Defender_Vest_Green"
+			]
+        }
