@@ -1,0 +1,66 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MOTORHOME_PARTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MotorHome_DriverDoor",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MotorHome_DriverDoor2",
+				"MotorHome_DriverRust",
+				"MotorHome_DriverDoorGreenCamo"
+				]
+        },
+		{
+            "ClassName": "MotorHome_HoodApo",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MotorHome_Hood",
+				"MotorHome_HoodRust",
+				"MotorHome_HoodGreenCamo"
+				]
+        },
+		{
+            "ClassName": "MotorHome_Hood2Apo",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MotorHome_Hood2",
+				"MotorHome_Hood2Rust",
+				"MotorHome_Hood2GreenCamo"
+				]
+        },
+		{
+            "ClassName": "MotorHomeRV_Wheel",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 250,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
