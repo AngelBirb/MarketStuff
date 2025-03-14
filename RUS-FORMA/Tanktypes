@@ -1,0 +1,210 @@
+  <type name="T_34_76">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 		count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="T_34_76_camo">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 		count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="T_34_76_camo2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 		count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="T_34_76_wheel">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 	count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="T_34_76_wheel_camo">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 	count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="T_34_76_wheel_camo2">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 	count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="T_34_76_doors_driver">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 	count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="T_34_76_doors_cargo1">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 	count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="T_34_76_doors_cargo2">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 	count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="T_34_76_doors_trunk">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 	count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="T_34_76_doors_driver_camo">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 	count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="T_34_76_doors_cargo1_camo">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 	count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="T_34_76_doors_cargo2_camo">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 	count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="T_34_76_doors_trunk_camo">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 	count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="T_34_76_doors_driver_camo2">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 	count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="T_34_76_doors_cargo1_camo2">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 	count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="T_34_76_doors_cargo2_camo2">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 	count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="T_34_76_doors_trunk_camo2">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 	count_in_player="0" crafted="0" deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
